@@ -1,0 +1,39 @@
+.titulo{
+    border: 2px solid;
+    border-color: black;
+    height: 100px;
+    font-size: 50px;
+    color: white;
+    background: #820000;
+    text-align: center;
+}
+
+.espacio{
+    height: 50px;
+}
+
+.presentacion{
+    border: 2px solid;
+    border-color: black;
+    height: 80px;
+    font-size: 20px;
+    background: rgb(163, 162, 162);
+    text-align: center;
+}
+
+.categorias{
+    border: 2px solid;
+    border-color: black;
+    height: 45px;
+    font-size: 20px;
+    background: rgb(235, 69, 69);
+    text-align: center;
+}
+
+.peliculas{
+    border: 2px solid;
+    border-color: black;
+    font-size: 10px;
+    background: rgb(5, 189, 118);
+    text-align: center;
+}
